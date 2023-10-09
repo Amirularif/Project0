@@ -31,6 +31,9 @@ body {
 }
 
 .navigation {
+    position: absolute;
+    right: 20px;
+    top: 15px;
     text-align: right;
 }
 
@@ -89,8 +92,8 @@ body {
     letter-spacing: 0px;
     margin-top: -20px; 
     position: absolute;
-    right: 733px;
-    top: 319px;
+    right: 740px;
+    top: 280px;
     white-space: nowrap;
 }
 

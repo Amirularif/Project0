@@ -127,6 +127,18 @@ input[type="submit"] {
     font-size: 13px; 
 }
 
+input[type="submitadvbtn"] {
+    background-color: #4285f4;
+    color: white;
+    border: none;
+    padding: 7px 12px;
+    cursor: pointer;
+    width: 100px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+}
+
 input[type="advancedtext"] {
     border: 1px solid #ccc;
     padding: 10px;
@@ -141,7 +153,7 @@ input[type="advancedtext"] {
 .advanced-search-container {
     width: 1200px;
     margin-left: 40px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .search-group {
@@ -150,6 +162,15 @@ input[type="advancedtext"] {
     justify-content: space-between;
     margin-bottom: 10px;
 }
+
+.advanced-search-title{
+    font-size: 20px;
+    color: #ea4335;
+    padding-top: 10px;
+    margin-bottom: 50px;
+    text-align: left;
+}
+
 .label1{
     font-size: 17px;
     padding-top: 10px;
@@ -186,6 +207,12 @@ input[type="advancedtext"] {
     text-align: left;
     font-size: 11px;
     color: #555;
+}
+
+.advbuttons{
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 386px;
 }
 
 .hint1{

@@ -223,7 +223,7 @@ input[type="advtext"] {
 }
 
 .advbuttons{
-    text-align: right;
+    text-align: left;
     margin-top: 20px;
     margin-right: 386px;
 }

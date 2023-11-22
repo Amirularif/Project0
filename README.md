@@ -26,9 +26,9 @@ Google Search, Google Image Search, and Google Advanced Search Page Prototype de
 
 
 ### Google Image Search Page
-<img src="https://github.com/Amirularif/Project0/assets/57553676/861e6036-832c-417d-8828-85876944c878" width="550" height=auto>
+<img src="https://github.com/Amirularif/Project0/assets/57553676/861e6036-832c-417d-8828-85876944c878" width="700" height=auto>
 
 
 ### Google Advanced Search page
-<img src="https://github.com/Amirularif/Project0/assets/57553676/95dab977-a0e7-40ad-8de2-378524575f8a" width="550" height=auto>
+<img src="https://github.com/Amirularif/Project0/assets/57553676/95dab977-a0e7-40ad-8de2-378524575f8a" width="700" height=auto>
 

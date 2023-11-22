@@ -18,10 +18,15 @@ Google Search, Google Image Search, and Google Advanced Search Page Prototype de
 
 3. **Google Advanced Search**: A Google advanced search page identical with customs styling with the real-time Google advanced search and allows the users to perform a more advanced query search. The result shown is provided by Google. Can be accessed by clicking the Google Advanced Search button on the top right of the Google Search Page.
 
+# Video Description
+
+https://github.com/Amirularif/Project0/assets/57553676/6e7b5965-01e9-4b1c-ac67-0ca5293743d1
+
+
 # Screenshots
 
 ### Google Search Page
-<img src="https://github.com/Amirularif/Project0/assets/57553676/f82c135a-c8cc-4083-8af0-c2e1907b86d2" width="700" height=auto>
+<img src="https://github.com/Amirularif/Project0/assets/57553676/f82c135a-c8cc-4083-8af0-c2e1907b86d2" width="700" height=auto name="test">
 <img src="https://github.com/Amirularif/Project0/assets/57553676/69e4d557-f6da-4a8c-8453-8eff75e0deec" width="700" height=auto>
 
 

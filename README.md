@@ -21,14 +21,14 @@ Google Search, Google Image Search, and Google Advanced Search Page Prototype de
 # Screenshots
 
 ### Google Search Page
-<img src="https://github.com/Amirularif/Project0/assets/57553676/d7f56d15-f317-4f5c-b4b4-4b483cf14d42" width="500" height=auto>
-<img src="https://github.com/Amirularif/Project0/assets/57553676/95dab977-a0e7-40ad-8de2-378524575f8a" width="500" height=auto>
+<img src="https://github.com/Amirularif/Project0/assets/57553676/e64123ce-dd1f-46c7-88fb-385a5d6e973f" width="550" height=auto>
+<img src="https://github.com/Amirularif/Project0/assets/57553676/d7f56d15-f317-4f5c-b4b4-4b483cf14d42" width="550" height=auto>
 
 
 ### Google Image Search Page
-<img src="https://github.com/Amirularif/Project0/assets/57553676/e64123ce-dd1f-46c7-88fb-385a5d6e973f" width="500" height=auto>
+<img src="https://github.com/Amirularif/Project0/assets/57553676/861e6036-832c-417d-8828-85876944c878" width="550" height=auto>
 
 
 ### Google Advanced Search page
-<img src="https://github.com/Amirularif/Project0/assets/57553676/861e6036-832c-417d-8828-85876944c878" width="500" height=auto>
+<img src="https://github.com/Amirularif/Project0/assets/57553676/95dab977-a0e7-40ad-8de2-378524575f8a" width="550" height=auto>
 

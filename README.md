@@ -12,7 +12,7 @@ Google Search, Google Image Search, and Google Advanced Search Page Prototype de
 
 # Function of the Application
 
-1. **Google Search**: A Google search page identical with customs styling with the real-time Google search and allows the users to perform a query search. The result shown is provided by Google. Equipped with I'm Lucky button that is also fully integrated
+1. **Google Search**: A Google search page identical to the real-time Google search and allows the users to perform a query search. The result shown is provided by Google. Equipped with I'm Lucky button that is also fully integrated
 
 2. **Google Image**: A Google image search page identical with customs styling with the real-time Google Image search and allows the users to perform a query search. The result shown is provided by Google in the form of images. Can be accessed by clicking the Google Image button on the top right of the Google Search Page.
 
